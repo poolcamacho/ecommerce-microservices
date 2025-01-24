@@ -1,3 +1,4 @@
+!['TecyLab'](./assets/images/microservices-architecture.svg)
 
 # E-Commerce Microservices
 
